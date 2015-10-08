@@ -24,5 +24,8 @@ class NewVisitorTest(unittest.TestCase):
         # They type "buy peacockfeathers" into a text box (Foo's hobby
         # is tying fly-fishing lures).
 
+        # When she hits enter, the page updates,and now the page lists
+        # "1. Buy peacock featers" as an item in a to-do list
+
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
