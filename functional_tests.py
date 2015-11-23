@@ -46,3 +46,5 @@ class NewVisitorTest(unittest.TestCase):
         # enters "Use peacock feathers to make a fly" (Edith is very
         # methodical)
         self.fail('Finish the test!')
+if __name__ =="__main__":
+    unittest.main()
